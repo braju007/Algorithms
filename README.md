@@ -1,1 +1,3 @@
 # Algorithms
+
+npx prettier . --write
